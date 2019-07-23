@@ -1,8 +1,8 @@
-package com.mvc.views.mediator.mainCity.summary
+package 
 {
 	/**
-	 * 云词常量
-	 *@author: Sun Fanglv
+	 * 
+	 *@author: Sun
 	 *Created at 9:02:46 PM Jul 17, 2019
 	 **/
 	public class WordCloudConst
