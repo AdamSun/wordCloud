@@ -1,4 +1,4 @@
-package com.mvc.views.mediator.mainCity.summary
+package 
 {
 	import flash.display.BitmapData;
 	import flash.display.PNGEncoderOptions;
@@ -14,8 +14,8 @@ package com.mvc.views.mediator.mainCity.summary
 	import starling.display.DisplayObject;
 
 	/**
-	 * 云词辅助类
-	 *@author: Sun Fanglv
+	 * 
+	 *@author: Sun
 	 *Created at 5:10:40 PM Jul 23, 2019
 	 **/
 	public class WordCloudUtils
