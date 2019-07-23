@@ -1,4 +1,4 @@
-package com.mvc.views.mediator.mainCity.summary
+package
 {
 	import com.core.util.getcommon.Common;
 	
@@ -13,8 +13,8 @@ package com.mvc.views.mediator.mainCity.summary
 	import starling.textures.Texture;
 	
 	/**
-	 * 云词容器
-	 *@author: Sun Fanglv
+	 * 
+	 *@author: Sun
 	 *Created at 6:22:34 PM Jul 17, 2019
 	 **/
 	public class WordCloudContainer extends Sprite
@@ -45,10 +45,10 @@ package com.mvc.views.mediator.mainCity.summary
 		private var m_stHelpMatrix:Matrix = new Matrix;
 		
 		/**
-		 *生成云词 
-		 * @param labelArr 用来生成云词的文本数组
-		 * @param colorArr 文本的颜色
-		 * @param imgDataArr 形状图片数据
+		 *create word cloud
+		 * @param labelArr 
+		 * @param colorArr 
+		 * @param imgDataArr 
 		 * 
 		 */		
 		public function create(labelArr:Array, colorArr:Array, imgDataArr:Array, imgWidth:int, imgHeight:int, maxFontSize:int, minFontSize:int):void
@@ -240,7 +240,7 @@ package com.mvc.views.mediator.mainCity.summary
 		}
 		
 		/** 
-		 * 获取对象Texture。 disp是拷贝对象，scale是缩放倍数  
+		 * 
 		 */  
 		public function copyToTexure(canves:RenderTexture=null,result:Texture=null):Texture  
 		{ 
