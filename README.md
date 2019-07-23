@@ -1,7 +1,8 @@
 # intro
-word cloud in flash as3 and Starling.it can create word cloud by the shape of choosing image
+word cloud in flash as3 and Starling.it can create word cloud by the shape of choosing image.this project refers to the golang project(https://github.com/bangbaoshi/wordcloud)
 
 # usage:
+```
 var wordCloud:WordCloudContainer = new WordCloudContainer();
 var imageData:Array = [];
 for (var i:int = 0; i < (150 * 150); i++) 
@@ -12,3 +13,4 @@ wordCloud.create(["David", "Mary", "Adam", "Jackson", "Curry"], [0x00ff00, 0xff0
 spr_main.addChild(wordCloud);
 var image:Image = new Image(wordCloud.copyToTexure());
 spr_main.addChild(image);
+```
