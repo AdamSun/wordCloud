@@ -1,7 +1,7 @@
-# wordCloud
+# intro
 word cloud in flash as3 and Starling.it can create word cloud by the shape of choosing image
 
-usage:
+# usage:
 var wordCloud:WordCloudContainer = new WordCloudContainer();
 var imageData:Array = [];
 for (var i:int = 0; i < (150 * 150); i++) 
