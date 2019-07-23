@@ -1,8 +1,8 @@
-package com.mvc.views.mediator.mainCity.summary
+package 
 {
 	/**
 	 *
-	 *@author: Sun Fanglv
+	 *@author: Sun
 	 *Created at 9:18:07 PM Jul 17, 2019
 	 **/
 	public class Helper
