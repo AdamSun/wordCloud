@@ -1,8 +1,8 @@
-package com.mvc.views.mediator.mainCity.summary
+package
 {
 	/**
 	 *
-	 *@author: Sun Fanglv
+	 *@author: AdamSun
 	 *Created at 9:32:59 PM Jul 17, 2019
 	 **/
 	public class CheckResult
